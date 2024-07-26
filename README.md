@@ -20,7 +20,7 @@ Check out my Blog to understand the code : [Supercharge Your Google Sheets with 
     Property name: `GROQ_API_KEY`
     Value: `[Your Groq API key]`
 
-  -> Click "Save" to store your API key securely
+  - Click "Save" to store your API key securely
 
 4. Setting up the code 
   - Copy the code from `googleSheetAIScript.py`
