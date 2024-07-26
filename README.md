@@ -1,5 +1,7 @@
 # Google Sheets AI App - FREE SETUP
 
+Check out my Blog to understand the code : [Supercharge Your Google Sheets with AI for FREE: A Step-by-Step Guide](https://genxclub.hashnode.dev/supercharge-your-google-sheets-with-ai-for-free-a-step-by-step-guide)
+
 ## DEMO
 
 Here in this screenshot showing three rows labeled CONTENT, PROMPT, and AI - REPLY. The CONTENT cell contains "Lewis Hamilton won his first World Driver Championship in F1". The PROMPT cell asks "Reply only the Year that it occurred". 
@@ -43,8 +45,8 @@ This example showcases how you can use AI to quickly extract specific informatio
 ![image](https://github.com/user-attachments/assets/42f8a6fd-db3f-4e34-880f-caaee5e46b95)
 
 
-
 5. All done
 - Now you can use it on the Sheets 
  
 
+Thanks for checking out please Star and Share 
