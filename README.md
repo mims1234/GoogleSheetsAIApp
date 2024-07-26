@@ -8,8 +8,8 @@ Check out my Blog to understand the code : [Supercharge Your Google Sheets with 
  ![image](https://github.com/user-attachments/assets/16a0115a-fd11-45fd-984c-d486f8408992)
 
 3. Access the Apps Script editor:
-  -> Click on "Extensions" in the top menu
-  -> Select "Apps Script" from the dropdown
+  - Click on "Extensions" in the top menu
+  - Select "Apps Script" from the dropdown
 
 3. Set up your API key:
   - Click on "Project settings" in the left-hand menu of the Apps Script editor
