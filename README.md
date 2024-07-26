@@ -30,6 +30,7 @@ This example showcases how you can use AI to quickly extract specific informatio
 3. Set up your API key:
 - Click on "Project settings" in the left-hand menu of the Apps Script editor
 - Scroll down to the "Script properties" section
+- Get GROQ_API_KEY [click here](https://genxclub.hashnode.dev/how-to-obtain-your-groq-api-key-a-step-by-step-guide)
 - Add a new property with the following details:
 
   Property name: `GROQ_API_KEY`
