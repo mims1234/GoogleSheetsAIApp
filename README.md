@@ -24,30 +24,30 @@ This example showcases how you can use AI to quickly extract specific informatio
  ![image](https://github.com/user-attachments/assets/16a0115a-fd11-45fd-984c-d486f8408992)
 
 3. Access the Apps Script editor:
-- Click on "Extensions" in the top menu
-- Select "Apps Script" from the dropdown
+  - Click on "Extensions" in the top menu
+  - Select "Apps Script" from the dropdown
 
 3. Set up your API key:
-- Click on "Project settings" in the left-hand menu of the Apps Script editor
-- Scroll down to the "Script properties" section
-- Get GROQ_API_KEY [click here](https://genxclub.hashnode.dev/how-to-obtain-your-groq-api-key-a-step-by-step-guide)
-- Add a new property with the following details:
+  - Click on "Project settings" in the left-hand menu of the Apps Script editor
+  - Scroll down to the "Script properties" section
+  - Get GROQ_API_KEY [click here](https://genxclub.hashnode.dev/how-to-obtain-your-groq-api-key-a-step-by-step-guide)
+  - Add a new property with the following details:
 
-  Property name: `GROQ_API_KEY`
-  Value: `[Your Groq API key]`
+    Property name: `GROQ_API_KEY`
+    Value: `[Your Groq API key]`
 
-- Click "Save" to store your API key securely
+  - Click "Save" to store your API key securely
 
 4. Setting up the code 
-- Copy the code from `googleSheetAIScript.py`
-- Replace the code 
-- Save the code
+  - Copy the code from `googleSheetAIScript.py`
+  - Replace the code 
+  - Save the code
 
 ![image](https://github.com/user-attachments/assets/42f8a6fd-db3f-4e34-880f-caaee5e46b95)
 
 
 5. All done
-- Now you can use it on the Sheets 
+  - Now you can use it on the Sheets 
  
 
 Thanks for checking out please Star and Share 
